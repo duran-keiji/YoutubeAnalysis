@@ -1,0 +1,46 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "j-4LCWrRTLndkYymXRTmWWcasw4",
+  "nextPageToken": "CAEQAA",
+  "regionCode": "JP",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 1
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iu4v5mJEQtSZbbfNQ57X0oI8ros",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WGGfZ-5xUTo"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-08T22:00:18Z",
+        "channelId": "UCLJ2UCP_Aw92SHk7-sUHF8w",
+        "title": "音楽テンションの上がる洋楽集 【作業用BGM】 やる気を全開にさせる最強洋楽メドレー",
+        "description": "ドライブの音楽で盛り上がる曲【邦楽】 https://bit.ly/3xi1r3C ◇◇100000人の加入者を獲得するために私たちを助けてください ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WGGfZ-5xUTo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WGGfZ-5xUTo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WGGfZ-5xUTo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "作業用BGM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-08T22:00:18Z"
+      }
+    }
+  ]
+}
