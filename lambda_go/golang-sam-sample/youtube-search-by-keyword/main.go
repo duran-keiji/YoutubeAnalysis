@@ -83,7 +83,7 @@ func get_youtube_data() string {
 	fmt.Println("body=", string(body))
 
 	// [3] 配列型のJSONデータを読み込む
-	// objが取得できていない
+	// FIXME: objが取得できていない
 	// obj := make([]*Search, 2)
 	var obj []*Search
 	
