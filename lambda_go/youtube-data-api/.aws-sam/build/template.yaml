@@ -1,8 +1,8 @@
 AWSTemplateFormatVersion: '2010-09-09'
 Transform: AWS::Serverless-2016-10-31
-Description: 'golang-sam-sample
+Description: 'youtube-data-api
 
-  Sample SAM Template for golang-sam-sample
+  Sample SAM Template for youtube-data-api
 
   '
 Globals:
@@ -27,7 +27,7 @@ Resources:
           PARAM1: VALUE
       ImageUri: youtubesearchbykeyword:go1.x-v1
     Metadata:
-      DockerContext: /Users/duran_keiji/develop/YoutubeAnalysis/lambda_go/golang-sam-sample/youtube-search-by-keyword
+      DockerContext: /Users/duran_keiji/develop/YoutubeAnalysis/lambda_go/youtube-data-api/youtube-search-by-keyword
       DockerTag: go1.x-v1
       Dockerfile: Dockerfile
       SamResourceId: YoutubeSearchByKeyword

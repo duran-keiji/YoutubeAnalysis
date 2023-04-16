@@ -4,7 +4,7 @@ version = 0.1
 
 [default]
 [default.global.parameters]
-stack_name = "golang-sam-sample"
+stack_name = "youtube-data-api"
 
 [default.build.parameters]
 parallel = true

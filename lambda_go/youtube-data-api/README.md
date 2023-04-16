@@ -1,6 +1,6 @@
-# golang-sam-sample
+# youtube-data-api
 
-これはgolang-sam-sampleのサンプルテンプレートです - 以下、生成したものを簡単に説明します：
+これはyoutube-data-apiのサンプルテンプレートです - 以下、生成したものを簡単に説明します：
 
 ```bash
 .
